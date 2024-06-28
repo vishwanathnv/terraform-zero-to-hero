@@ -1,4 +1,4 @@
-Certainly, let's delve deeper into the `file`, `remote-exec`, and `local-exec` provisioners in Terraform, along with examples for each.
+Certainly, let's dive deeper into the `file`, `remote-exec`, and `local-exec` provisioners in Terraform, along with examples for each.
 
 1. **file Provisioner:**
 
